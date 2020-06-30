@@ -5,6 +5,7 @@ Clone or Download the project into local host
 # Prerequisities 
 Web Server solution stack package like XAMPP
 
+# Screenshots
 <div align="center">
     <img src="/Study_Guide/screenshots/ss1.PNG" width="400px"</img> 
 </div>
