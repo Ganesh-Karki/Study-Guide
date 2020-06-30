@@ -6,12 +6,12 @@ Clone or Download the project into local host
 Web Server solution stack package like XAMPP
 
 # Screenshots
-<div align="center">
+<div align="left">
     <img src="/Study_Guide/screenshots/ss1.PNG" width="400px"</img> 
 </div>
-<div align="center">
+<div align="left">
     <img src="/Study_Guide/screenshots/ss2.PNG" width="400px"</img> 
 </div>
-<div align="center">
+<div align="left">
     <img src="/Study_Guide/screenshots/ss3.PNG" width="400px"</img> 
 </div>
