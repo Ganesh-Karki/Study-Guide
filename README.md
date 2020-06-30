@@ -7,6 +7,10 @@ Web Server solution stack package like XAMPP
 
 <div align="center">
     <img src="/Study_Guide/screenshots/ss1.PNG" width="400px"</img> 
+</div>
+<div align="center">
     <img src="/Study_Guide/screenshots/ss2.PNG" width="400px"</img> 
+</div>
+<div align="center">
     <img src="/Study_Guide/screenshots/ss3.PNG" width="400px"</img> 
 </div>
